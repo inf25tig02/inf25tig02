@@ -7,3 +7,18 @@ Repositorio criado para dar host ao projeto desenvolvido para a disciplina de Te
 Este projeto foi desenvolvido no âmbito da disciplina de Tecnologias da Internet e consiste num website focado na preservação e celebração do fenómeno do retro-gaming. O foco central recai sobre três das consolas que mais marcaram a evolução do entretenimento multimédia interativo: a PlayStation (PS1), a PlayStation 2 (PS2) e o Game Boy Color (GBC).
 
 A arquitetura do website baseia-se num ecossistema de 4 páginas estáticas (index.html, ps1.html, ps2.html, gbc.html). A página principal introduz o conceito da evolução multimédia nos videojogos, enquanto as páginas individuais detalham a história de hardware e destacam jogos incontornáveis de cada sistema.
+
+# Tecnologias utilizadas
+
+[XML](https://www.w3schools.com/xml/)
+
+[HTML5](https://www.w3schools.com/html/) 
+
+[CSS3](https://www.w3schools.com/css/)
+
+# Organização do repositório
+
+
+# Apresentação do projeto
+
+
