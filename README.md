@@ -28,18 +28,6 @@ Todas as imagens usadas no projeto estão guardadas neste folder
 As soundtracks individuais usadas nas 4 páginas
 ### Videos
 
-Gameplays dos jogos usados
-### index.html
-
-Página principal do projeto
-### ps1.html
-
-Página onde descreve um pouco da história da ps1 e os seus jogos mais marcantes
-### ps2.html
-
-Página onde descreve um pouco da história da ps2
-### gbc.html
-
 Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
 ### styles.css
 
