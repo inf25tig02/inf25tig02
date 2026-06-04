@@ -29,20 +29,27 @@ As soundtracks individuais usadas nas 4 páginas
 ### Videos
 
 Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
-### styles.css
+### styles
 
 Todos os estilos css usados para todas as páginas
-### dados.xml
+### dados
 
 ficheiro xml disponivel para download
-### schema.xml
+### schema
 
 Schema do projeto
 
-### script.js
+### script
 
 Ficheiro javascript do projeto
 
 # Apresentação do projeto
 
+Index - Homepage
+
+ps1.html - Página dedicada a playstation 1
+
+ps2.html - Página dedicada a playstation 2
+
+gbc.html - Página dedicada ao game boy color
 
