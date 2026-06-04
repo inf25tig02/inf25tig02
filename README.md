@@ -20,6 +20,17 @@ A arquitetura do website baseia-se num ecossistema de 4 páginas estáticas (ind
 
 # Organização do repositório
 
+### Imagens - Todas as imagens usadas no projeto estão guardadas neste folder
+### música - As soundtracks individuais usadas nas 4 páginas
+### Videos - Gameplays dos jogos usados
+### index.html - Página principal do projeto
+### ps1.html - Página onde descreve um pouco da história da ps1 e os seus jogos mais marcantes
+### ps2.html - Página onde descreve um pouco da história da ps2
+### gbc.html - Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
+### styles.css - Todos os estilos css usados para todas as páginas
+### dados.xml - ficheiro xml disponivel para download
+### schema.xml - Schema do projeto
+### script.js - Ficheiro javascript do projeto
 
 # Apresentação do projeto
 
