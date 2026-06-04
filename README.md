@@ -2,7 +2,7 @@
 
 Repositorio criado para dar host ao projeto desenvolvido para a disciplina de Tecnologias de Internet na Universidade da Maia. Desenvolvido pelo grupo inf25tig02 [@DanielNunesPT](https://github.com/DanielNunesPT)
 
-🕹️# Descrição do Projeto
+# 🕹️Descrição do Projeto
 
 Este projeto foi desenvolvido no âmbito da disciplina de Tecnologias da Internet e consiste num website focado na preservação e celebração do fenómeno do retro-gaming. O foco central recai sobre três das consolas que mais marcaram a evolução do entretenimento multimédia interativo: a PlayStation (PS1), a PlayStation 2 (PS2) e o Game Boy Color (GBC).
 
