@@ -16,6 +16,8 @@ A arquitetura do website baseia-se num ecossistema de 4 páginas estáticas (ind
 
 [CSS3](https://www.w3schools.com/css/)
 
+[Javascript](https://www.w3schools.com/js/)
+
 # Organização do repositório
 
 
