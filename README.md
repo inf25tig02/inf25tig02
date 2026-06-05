@@ -26,26 +26,26 @@ A arquitetura do website evoluiu para um ecossistema de 5 páginas estáticas e 
 
 # 🗂️Organização do repositório
 
-### 🖼️magens
+### Imagens
 Todas as imagens usadas no projeto estão guardadas neste folder
 
-### 🎵música 
+### música 
 
 As soundtracks individuais usadas nas 4 páginas
-### 🎬videos
+### videos
 
 Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
-### 🎨styles
+### styles
 
 Todos os estilos css usados para todas as páginas
-### 🗃️XML
+### XML
 
 pasta com o ficheiro xml disponivel para download
-### 📋schema
+### schema
 
 Schema do projeto
 
-### ⚡script
+### script
 
 Ficheiro javascript do projeto
 
