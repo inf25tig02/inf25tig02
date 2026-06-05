@@ -52,15 +52,15 @@ Ficheiro javascript do projeto
 # Apresentação do projeto
 
 #### Home Page: Index
-HTML Page ![](exemplos/index.png)
+![](exemplos/index.png)
 #### PS1: 
-HTML Page  ![](exemplos/ps1.png)
+![](exemplos/ps1.png)
 #### PS2:
-HTML Page  ![](exemplos/ps2.png)
+![](exemplos/ps2.png)
 #### GBC:
-HTML Page  ![](exemplos/gbc.png)
+![](exemplos/gbc.png)
 #### Formulário:
-HTML Page  ![](exemplos/formulario.png)
+![](exemplos/formulario.png)
 
 ## 🚀 Como testar o projeto
 
