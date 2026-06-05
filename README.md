@@ -81,4 +81,49 @@ Caso queiras rever o código, ou aceder diretamente a partir da tua máquina.
 
 . Caso queiras analisar o código, podes sempre fazer download do VS Code neste website https://code.visualstudio.com/. Apenas tens de abrir o VS Code ir a File e escolher Open Folder e escolher a root folder do projeto
 
+### ✅ Validação de Código (W3C)
+
+Para garantir que o projeto cumpre as melhores práticas da web e os rigorosos padrões semânticos, todos os ficheiros foram testados nas ferramentas oficiais da W3C.
+
+#### 📄 Validação HTML5 (W3C Markup Validation Service)
+As cinco páginas que compõem o ecossistema do website foram validadas individualmente com sucesso:
+
+* `index.html` (Página Principal e Catálogo XML)
+* `ps1.html` (Página PlayStation 1)
+* `ps2.html` (Página PlayStation 2)
+* `gbc.html` (Página Game Boy Color)
+* `formulario.html` (Página de Feedback e Contacto)
+
+**Comprovativos (HTML):**
+<br>
+Index
+<br>
+<img src="validações/indexV.png" alt="Validação Index" width="900">
+
+PS1
+<br>
+<img src="validações/ps1V.png" alt="Validação PS1" width="900">
+
+PS2
+<br>
+<img src="validações/ps2V.png" alt="Validação PS2" width="900">
+
+GBC
+<br>
+<img src="validações/gbcV.png" alt="Validação GBC" width="900">
+
+Formulário
+<br>
+<img src="validações/formularioV.png" alt="Validação Formulário" width="900">
+
+
+#### 🎨 Validação CSS3 (W3C CSS Validator)
+O ficheiro styles, que é responsavel pelos estilos aplicados na página web também passou sem erros.
+
+* `styles.css`
+
+**Comprovativo (CSS):**
+<br>
+<img src="validações/cssV.png" alt="Validação CSS" width="600">
+
 
