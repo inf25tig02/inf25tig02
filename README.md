@@ -6,7 +6,13 @@ Repositorio criado para dar host ao projeto desenvolvido para a disciplina de Te
 
 Este projeto foi desenvolvido no âmbito da disciplina de Tecnologias da Internet e consiste num website focado na preservação e celebração do fenómeno do retro-gaming. O foco central recai sobre três das consolas que mais marcaram a evolução do entretenimento multimédia interativo: a PlayStation (PS1), a PlayStation 2 (PS2) e o Game Boy Color (GBC).
 
-A arquitetura do website baseia-se num ecossistema de 4 páginas estáticas (index.html, ps1.html, ps2.html, gbc.html). A página principal introduz o conceito da evolução multimédia nos videojogos, enquanto as páginas individuais detalham a história de hardware e destacam jogos incontornáveis de cada sistema.
+A arquitetura do website evoluiu para um ecossistema de 5 páginas estáticas e interativas:
+
+    🏠 Página Principal (index.html): Introduz o conceito do projeto e apresenta uma tabela dinâmica de clássicos, populada através da leitura de um ficheiro de dados .xml.
+
+    🕹️ Páginas das Consolas (ps1.html, ps2.html, gbc.html): Detalham as especificações técnicas de hardware, capacidades gráficas e sonoras, suportadas por multimédia integrada (áudio e vídeo).
+
+    📝 Página de Feedback (formulario.html): Uma interface dedicada à interação com o utilizador.
 
 # 💻Tecnologias utilizadas
 
@@ -20,26 +26,26 @@ A arquitetura do website baseia-se num ecossistema de 4 páginas estáticas (ind
 
 # 🗂️Organização do repositório
 
-### Imagens
+### 🖼️magens
 Todas as imagens usadas no projeto estão guardadas neste folder
 
-### Música 
+### 🎵música 
 
 As soundtracks individuais usadas nas 4 páginas
-### Videos
+### 🎬videos
 
 Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
-### styles
+### 🎨styles
 
 Todos os estilos css usados para todas as páginas
-### xml
+### 🗃️XML
 
 pasta com o ficheiro xml disponivel para download
-### schema
+### 📋schema
 
 Schema do projeto
 
-### script
+### ⚡script
 
 Ficheiro javascript do projeto
 
@@ -55,4 +61,21 @@ HTML Page
 HTML Page
 #### Formulário:
 HTML Page
+
+## 🚀 Como testar o projeto
+
+Temos duas formas de aceder ao projeto/website, que seriam as seguintes:
+
+### 🌐Online
+O projeto está hosted no Netlify, não é necessário descarregar nenhum código nem fazer download de nenhuma tool. Apenas clica no link abaixo para aceder ao website.
+
+
+### 💻Ver no computador
+Caso queiras rever o código, ou aceder diretamente a partir da tua máquina.
+
+. Clica no botão verde **"Code"** aqui no topo da página e escolhe **"Download ZIP"**.
+. Extrai a pasta para o teu PC.
+. Para veres o site, basta dares dois cliques no ficheiro `index.html` ou qualquer outro ficheiro html. Isto vai automaticamente abrir a página no teu default browser.
+. Caso queiras analisar o código, podes sempre fazer download do VS Code neste website https://code.visualstudio.com/. Apenas tens de abrir o VS Code ir a File e escolher Open Folder e escolher a root folder do projeto
+
 
