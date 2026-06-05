@@ -45,11 +45,15 @@ Ficheiro javascript do projeto
 
 # Apresentação do projeto
 
-Index - Homepage
-
-ps1.html - Página dedicada a playstation 1
-
-ps2.html - Página dedicada a playstation 2
-
-gbc.html - Página dedicada ao game boy color
+# Project presentation
+#### Home Page: Index
+HTML Page
+#### PS1: 
+HTML Page
+#### PS2:
+HTML Page
+#### GBC:
+HTML Page
+#### Formulário:
+HTML Page
 
