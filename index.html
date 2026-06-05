@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mundo Retro-Gaming - Início</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="#">Consolas</a>
+                    <ul>
+                        <li><a href="ps1.html">PlayStation</a></li>
+                        <li><a href="ps2.html">PlayStation 2</a></li>
+                        <li><a href="gbc.html">Game Boy Color</a></li>
+                    </ul>
+                </li>
+                <li><a href="formulario.html">Formulário</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>O Fenómeno do Retro-Gaming</h1>
+            <p>O retro-gaming representa a preservação e a celebração da história dos videojogos. Mais do que nostalgia, compreende o estudo da evolução multimédia ao longo das décadas.</p>
+            
+            <figure>
+                <img src="imagens/sonic.gif" alt="Coleção de videojogos e consolas retro">
+            </figure>
+
+            <aside class="float-box">
+                <h3>Sabia que?</h3>
+                <p>A transição do áudio sintetizado para o áudio em CD revolucionou a imersão na era de 32-bits.</p>
+            </aside>
+            <p>Explorar plataformas clássicas permite-nos entender como limitações de hardware inspiraram soluções criativas brilhantes na área de design gráfico e sonoro.</p>
+            
+            <div class="css-bg-image-demo"></div>
+        </section>
+
+        <section>
+            <h2>Alguns dos jogos mais marcantes</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Título do Jogo</th>
+                        <th>Consola</th>
+                        <th>Ano</th>
+                        <th>Género</th>
+                        <th>Produtora</th>
+                    </tr>
+                </thead>
+                <tbody id="xml-table-body">
+                </tbody>
+            </table>
+            
+            <div class="download-container">
+                <a href="xml/dados.xml" target="_blank" class="btn-download">📂 Ver ficheiro dados.xml</a>
+            </div>
+        </section>
+
+        <section class="audio-section">
+            <h2>Banda Sonora Retro</h2>
+            <audio controls autoplay>
+                <source src="música/01 Green Hill Zone Act 1.mp3" type="audio/mpeg">
+            </audio>
+        </section>
+
+    </main>
+
+    <button id="backToTop">↑</button>
+
+    <footer>
+        <address>The World of Gaming</address>
+    </footer>
+</body>
+</html>
