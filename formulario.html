@@ -84,6 +84,103 @@
         <section class="audio-section">
             <h2>Banda Sonora Retro</h2>
             <audio controls loop autoplay>
+                <source src="música/01GreenHillZoneAct1.mp3" type="audio/mpeg">
+            </audio>
+        </section>
+    </main>
+
+    <button id="backToTop">↑</button>
+
+    <footer>
+        <address>The World of Gaming</address>
+    </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Feedback</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="#">Consolas</a>
+                    <ul>
+                        <li><a href="ps1.html">PlayStation</a></li>
+                        <li><a href="ps2.html">PlayStation 2</a></li>
+                        <li><a href="gbc.html">Game Boy Color</a></li>
+                    </ul>
+                </li>
+                <li><a href="formulario.html">Formulário</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Deixe o seu Feedback</h1>
+            <p>Gostou de viajar no tempo com o nosso site? Preencha o formulário abaixo e deixe-nos um comentário sobre a sua experiência ou partilhe qual é a sua consola retro favorita!</p>
+              <figure>
+                <img src="imagens/sonic.gif" alt="Coleção de videojogos e consolas retro">
+            </figure>
+            
+            <form action="#" method="post">
+                
+                <div class="form-group">
+                    <label for="nome">Nome Completo:</label>
+                    <input type="text" id="nome" name="nome" placeholder="O seu nome..." required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">E-mail de Contacto:</label>
+                    <input type="email" id="email" name="email" placeholder="exemplo@email.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="consola-fav">Qual a sua consola favorita?</label>
+                    <select id="consola-fav" name="consola-fav">
+                        <option value="">Selecione uma opção...</option>
+                        <option value="ps1">PlayStation 1</option>
+                        <option value="ps2">PlayStation 2</option>
+                        <option value="gbc">Game Boy Color</option>
+                        <option value="outra">Outra</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Avalie o design do nosso website:</label>
+                    <div class="radio-group">
+                        <input type="radio" id="av-excelente" name="aval" value="excelente" required>
+                        <label for="av-excelente">Excelente</label>
+                        
+                        <input type="radio" id="av-bom" name="aval" value="bom">
+                        <label for="av-bom">Bom</label>
+                        
+                        <input type="radio" id="av-melhorar" name="aval" value="melhorar">
+                        <label for="av-melhorar">Pode Melhorar</label>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="comentario">O seu comentário:</label>
+                    <textarea id="comentario" name="comentario" rows="5" placeholder="Escreva aqui a sua opinião sobre o site..." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="📩 Enviar Feedback">
+                </div>
+
+            </form>
+        </section>
+        
+        <section class="audio-section">
+            <h2>Banda Sonora Retro</h2>
+            <audio controls loop autoplay>
                 <source src="música/01 Green Hill Zone Act 1.mp3" type="audio/mpeg">
             </audio>
         </section>
