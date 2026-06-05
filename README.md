@@ -32,9 +32,9 @@ Página onde descreve a história, alguns componentes e um dos jogos mais marcan
 ### styles
 
 Todos os estilos css usados para todas as páginas
-### dados
+### xml
 
-ficheiro xml disponivel para download
+pasta com o ficheiro xml disponivel para download
 ### schema
 
 Schema do projeto
@@ -45,7 +45,6 @@ Ficheiro javascript do projeto
 
 # Apresentação do projeto
 
-# Project presentation
 #### Home Page: Index
 HTML Page
 #### PS1: 
