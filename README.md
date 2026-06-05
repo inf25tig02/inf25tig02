@@ -53,13 +53,13 @@ Ficheiro javascript do projeto
 
 #### Home Page: Index
 ![](exemplos/index.png)
-#### PS1: 
+#### Página PS1: 
 ![](exemplos/ps1.png)
-#### PS2:
+#### Página PS2:
 ![](exemplos/ps2.png)
-#### GBC:
+#### Página GBC:
 ![](exemplos/gbc.png)
-#### Formulário:
+#### Página Formulário:
 ![](exemplos/formulario.png)
 
 ## 🚀 Como testar o projeto
