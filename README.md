@@ -74,8 +74,11 @@ O projeto está hosted no Netlify, não é necessário descarregar nenhum códig
 Caso queiras rever o código, ou aceder diretamente a partir da tua máquina.
 
 . Clica no botão verde **"Code"** aqui no topo da página e escolhe **"Download ZIP"**.
+
 . Extrai a pasta para o teu PC.
+
 . Para veres o site, basta dares dois cliques no ficheiro `index.html` ou qualquer outro ficheiro html. Isto vai automaticamente abrir a página no teu default browser.
+
 . Caso queiras analisar o código, podes sempre fazer download do VS Code neste website https://code.visualstudio.com/. Apenas tens de abrir o VS Code ir a File e escolher Open Folder e escolher a root folder do projeto
 
 
