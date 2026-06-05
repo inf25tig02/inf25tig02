@@ -67,7 +67,7 @@ HTML Page  ![](exemplos/formulario.png)
 Temos duas formas de aceder ao projeto/website, que seriam as seguintes:
 
 ### 🌐Online
-O projeto está hosted no Netlify, não é necessário descarregar nenhum código nem fazer download de nenhuma tool. Apenas clica no link abaixo para aceder ao website.
+O projeto está hosted no Netlify, não é necessário descarregar nenhum código nem fazer download de nenhuma tool. Apenas clica no link abaixo para aceder ao website. https://inf25tig02.netlify.app
 
 
 ### 💻Ver no computador
