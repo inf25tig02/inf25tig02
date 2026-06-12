@@ -31,7 +31,7 @@ Todas as imagens usadas no projeto estão guardadas neste folder
 
 ### música 
 
-As soundtracks individuais usadas nas 4 páginas
+As soundtracks individuais usadas nas 5 páginas
 ### videos
 
 Página onde descreve a história, alguns componentes e um dos jogos mais marcantes da consola
